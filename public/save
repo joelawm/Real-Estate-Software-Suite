@@ -1,0 +1,10 @@
+<div class="row">
+	<div class="col-lg-6">
+		 <h3>Income categories</h3>
+		 <div id="chart"></div>
+	 </div>
+	<div class="col-lg-6">
+		<h3>Expense categories</h3>
+		<div id="chart2"></div>
+	</div>
+</div>
